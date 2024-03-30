@@ -1,5 +1,6 @@
-# Data visualization - Netflix Movies and TV Shows <p align="left">
-<a href="https://www.netflix.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/netflix-3.svg" alt="netflix" width="100" height="100"/> </a>
+# Data visualization - <img src="https://cdn.worldvectorlogo.com/logos/netflix-3.svg" alt="netflix" width="100" style="fmargin:0 10px 10px 0"/> </a> Movies and TV Shows
+
+
 
 
 The goal of this notebook is to share data visualization tools and techniques along to communicate practiques and methods to an efficient and interesting data storytelling.
@@ -29,13 +30,19 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_distribution_per_country.png" alt="netflix" width="1000" /> </a>
 
  ## Director
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/directors_in_netflix_database.png" alt="netflix" width="500" /> </a>
+<p align="center">
+  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/directors_in_netflix_database.png" alt="netflix" width="500" />
+</p>
 
  ## Cast
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_cast_in_netflix_database.png" alt="netflix" width="500"/> </a>
+ <p align="center">
+  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_cast_in_netflix_database.png" alt="netflix" width="640"/> </a>
+</p>
 
  ## Country
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_elements_per_country_in_netflix_database.png" alt="netflix" width="600"/> </a>
+ <p align="center">
+  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_elements_per_country_in_netflix_database.png" alt="netflix" width="800"/> </a>
+ </p>
 
 
  ## Date added
@@ -45,14 +52,20 @@ Netflix is one of the most popular media and video streaming platforms. They hav
  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/release_year_content_in_netflix_database.png" alt="netflix" width="1000" /> </a>
 
  ## Rating
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_classification_in_netflix_database.png" alt="netflix" width="400" /> </a>
+ <p align="center">
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_classification_in_netflix_database.png" alt="netflix" width="600" /> </a>
+ </p>
 
  ## Duration
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/seasons_tv_shows.png" alt="netflix" width="600" /> </a>
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/movies_duration.png" alt="netflix" width="500" /> </a>
+ <p align="center">
+  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/seasons_tv_shows.png" alt="netflix" width="700" /> </a>
+  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/movies_duration.png" alt="netflix" width="600" /> </a>
+ </p>
 
  ## Listed in
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_in_Netflix_database.png" alt="netflix" width="900" /> </a>
+ <p align="center">
+  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_in_Netflix_database.png" alt="netflix" width="900" /> </a>
+ <p align="center">
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_per_country.png" alt="netflix" width="1000" /> </a>
 
 
