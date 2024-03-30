@@ -50,45 +50,62 @@ Now, we have interest in see how is the distribution of content in different cou
 </p>
 
  ## Cast
+ The attriburte Cast is the third with most missing data, but also, the attribute with the mst number of elements, it contains almost 40000 actors, so as a exercise with wanted to show the top 40 actors who appear the most.
+
  <p align="center">
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_cast_in_netflix_database.png" alt="netflix" width="640"/> </a>
 </p>
 
  ## Country
+ In the following chart, we can see the elements that every country has, as expected, the US has the most ammount of elements, followed by India and UK, the following countries has a simillar proportion with each other.
  <p align="center">
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_elements_per_country_in_netflix_database.png" alt="netflix" width="800"/> </a>
  </p>
 
 
  ## Date added
+ Ih the following plot, we can observe the ammount of elements that were added to the Netflix catalog, notice that in gray color are the movies and in red color are the TV shows, also the black vertical bars indicate a different year.
+ From this plot we can notice several thigs:
+  * the ammount of items per movie and per TV shows has increase over the years
+  * the months where the elements are added tend to be in the beginning and ending of the year
+  * the porportion movies/TV shows remains over the years
  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/date_added_per_content_in_netflix_database.png" alt="netflix" width="1000" /> </a>
 
  ## Release year
+ In this plot we can infer several things:
+ * in the 2000 decade the amount of movies/TV shows increased considerably
+ * after 2018 the amount decrease, maybe because un updated data or maybe because pandemic
+ * the plot follows an exponential distributtion
  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/release_year_content_in_netflix_database.png" alt="netflix" width="1000" /> </a>
 
  ## Rating
+ In this pie chart, we can observe the rating distributtion taht the Betflix database has, as we can notice, almost 40% is for TV-MA audidence, follow by TV-14 and TV-PG, as we expected, because the goal of Netflix is to capture the attention of a global audience. Of course, it has content restricted for adults and in counterpart, content dedicated for kids, bith in less proportions.
  <p align="center">
  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_classification_in_netflix_database.png" alt="netflix" width="600" /> </a>
  </p>
 
  ## Duration
+ In ths chart of TV shows seasons we can see the almost all the TV shows has 1 seasons, followed by 2, 3, and so on.
  <p align="center">
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/seasons_tv_shows.png" alt="netflix" width="700" /> </a>
+  In the case of Movies, the average tend to be 100 minutes which is approximately 1 hour 40 minutes.
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/movies_duration.png" alt="netflix" width="600" /> </a>
  </p>
 
  ## Listed in
+ For the category, we can observe the top categories in a _wordcloud_, the bigger the word the most appear in the catalog.
  <p align="center">
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_in_Netflix_database.png" alt="netflix" width="900" /> </a>
  <p align="center">
+  In addition, we wanted to know the top 4 categories in 8 arbitrary countries. As we can expect, every country have different tastes for each category.
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_per_country.png" alt="netflix" width="1000" /> </a>
 
 
  ## Description
+ Finally, we made an interes wordclud:
+ We take the synopsis of all the 8807 elements ad extract the 150 most repeated words, those words where placed over the Netflix logo and the result was the following wordcloud!! 
  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/descriptions_in_Netflix_wordcloud.png" alt="netflix" width="1000" /> </a>
 
-
-[https://www.holisticseo.digital/python-seo/word-cloud/]: <> 
 
 
 
@@ -96,3 +113,4 @@ Now, we have interest in see how is the distribution of content in different cou
 
 ## References
 [1] Bansal, S. (2021). Netflix Movies and TV Shows. Kaggle. https://www.kaggle.com/datasets/shivamb/netflix-shows
+[https://www.holisticseo.digital/python-seo/word-cloud/]: <> 
