@@ -88,7 +88,10 @@ Now, we have interest in see how is the distribution of content in different cou
  In ths chart of TV shows seasons we can see the almost all the TV shows has 1 seasons, followed by 2, 3, and so on.
  <p align="center">
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/seasons_tv_shows.png" alt="netflix" width="700" /> </a>
+ </p>
+ 
   In the case of Movies, the average tend to be 100 minutes which is approximately 1 hour 40 minutes.
+  <p align="center">
   <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/movies_duration.png" alt="netflix" width="600" /> </a>
  </p>
 
