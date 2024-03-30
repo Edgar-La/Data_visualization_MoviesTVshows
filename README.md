@@ -26,38 +26,38 @@ Netflix is one of the most popular media and video streaming platforms. They hav
  * Description
 
 ## Type of content distributtion
-<img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_distribution_per_country.png" alt="netflix" width="640" height="480"/> </a>
+<img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_distribution_per_country.png" alt="netflix" width="1000" /> </a>
 
  ## Director
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/directors_in_netflix_database.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/directors_in_netflix_database.png" alt="netflix" width="500" /> </a>
 
  ## Cast
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_cast_in_netflix_database.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_cast_in_netflix_database.png" alt="netflix" width="500"/> </a>
 
  ## Country
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_elements_per_country_in_netflix_database.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_elements_per_country_in_netflix_database.png" alt="netflix" width="600"/> </a>
 
 
  ## Date added
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/date_added_per_content_in_netflix_database.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/date_added_per_content_in_netflix_database.png" alt="netflix" width="1000" /> </a>
 
  ## Release year
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/release_year_content_in_netflix_database.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/release_year_content_in_netflix_database.png" alt="netflix" width="1000" /> </a>
 
  ## Rating
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_classification_in_netflix_database.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/content_classification_in_netflix_database.png" alt="netflix" width="400" /> </a>
 
  ## Duration
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/seasons_tv_shows.png" alt="netflix" width="640" height="480"/> </a>
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/movies_duration.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/seasons_tv_shows.png" alt="netflix" width="600" /> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/movies_duration.png" alt="netflix" width="500" /> </a>
 
  ## Listed in
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_in_Netflix_database.png" alt="netflix" width="640" height="480"/> </a>
-  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_per_country.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_in_Netflix_database.png" alt="netflix" width="900" /> </a>
+  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/top_categories_per_country.png" alt="netflix" width="1000" /> </a>
 
 
  ## Description
- <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/descriptions_in_Netflix_wordcloud.png" alt="netflix" width="640" height="480"/> </a>
+ <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/descriptions_in_Netflix_wordcloud.png" alt="netflix" width="1000" /> </a>
 
 
 [https://www.holisticseo.digital/python-seo/word-cloud/]: <> 
