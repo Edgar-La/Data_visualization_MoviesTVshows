@@ -4,7 +4,7 @@
 
 
 The goal of this notebook is to share data visualization tools and techniques along to communicate practiques and methods to an efficient and interesting data storytelling.
-Join me on this fun journey :coffee:
+Join me on this funny journey :coffee:
 
 ## Tools
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/> </a>
