@@ -105,7 +105,7 @@ Now, we have interest in see how is the distribution of content in different cou
 
 
  ## Description
- Finally, we made an interes wordclud:
+ Finally, we made an interesting wordcloud:
  We take the synopsis of all the 8807 elements ad extract the 150 most repeated words, those words where placed over the Netflix logo and the result was the following wordcloud!! 
  <img src="https://github.com/Edgar-La/Data_visualization_MoviesTVshows/blob/main/plots/descriptions_in_Netflix_wordcloud.png" alt="netflix" width="1000" /> </a>
 
@@ -116,4 +116,5 @@ Now, we have interest in see how is the distribution of content in different cou
 
 ## References
 [1] Bansal, S. (2021). Netflix Movies and TV Shows. Kaggle. https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 [https://www.holisticseo.digital/python-seo/word-cloud/]: <> 
